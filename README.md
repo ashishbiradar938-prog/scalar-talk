@@ -1,2 +1,4 @@
 # scalar-talk
-This is my first Git Repository. Author -Aashish Biradar
+This is my first Git Repository. 
+<br>
+Author -Aashish Biradar
